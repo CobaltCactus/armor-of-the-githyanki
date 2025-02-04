@@ -1,0 +1,8 @@
+new entry "CACTUS_Githyanki_Armor_Cache"
+type "Object"
+using "_Container"
+data "RootTemplate" "79b4eb48-712d-47c1-ba0c-9acd5afd1919"
+data "ValueOverride" "7"
+data "Unique" "0"
+data "MinLevel" "1"
+

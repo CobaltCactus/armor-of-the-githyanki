@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="977d7e03-8b7c-4175-95b6-b7afc334fabf" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Accessory_Githyanki_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ecbee57e-e003-4c5a-ba9b-8c166e08019e" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="db4d2e5e-af15-41cb-849e-363363ba7139" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="2.25" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d60d82a7-9e78-4e71-8395-1999b67d6903" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Accessory_Githyanki_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7583d8f7-d11e-489f-bc58-e42d97187a8e" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a5265d6e-ea76-41f0-a22d-643769fea5d3" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e5f66a74-3786-4d5f-b9e1-3eba0c2a3b90" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Accessory_Githyanki_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7583d8f7-d11e-489f-bc58-e42d97187a8e" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6fd51578-1359-40cd-9c60-f0f43c59bf9e" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ee0da90c-edf9-4825-bfb7-fe8511bf2163" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Boots_Githyanki_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13f71db4-7d54-4a9a-970d-489a1ac821bf" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="44f23a3a-20b6-4c80-ae4d-6453697021a3" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dfc991bb-6b10-494d-9013-fe1941b8c321" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Boots_Githyanki_A_Broken" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13f71db4-7d54-4a9a-970d-489a1ac821bf" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e7afd228-e974-4c20-aae0-74cc2789a37a" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f42d48a3-0090-4aef-8d6c-718b3a884c9b" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Boots_Githyanki_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="781416e5-3a6d-4a1d-a106-b8c3d6019ca1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d26f1e3a-2823-4dda-92c2-2ab0ce5a5348" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Boots_Githyanki_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="140b4963-050b-4657-93ff-3d27fa6e969f" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="06e0e8f4-6ddf-43e9-a687-598a4d040843" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Boots_Githyanki_Kithrak" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13f71db4-7d54-4a9a-970d-489a1ac821bf" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="395280ad-6fbc-46fe-9db6-196ca0b5da76" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="978a04ff-1ca0-474e-abef-71537c8fbf36" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Bracers_Githyanki_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9595f6a0-f229-4869-ad3c-1ec7763733da" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7d261f08-9cdc-48ed-9c01-102a036877a2" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7e315b4b-fda8-4294-844f-2b75da4f3ef4" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Bracers_Githyanki_A_Broken" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9595f6a0-f229-4869-ad3c-1ec7763733da" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bbba4fc3-bf8c-438b-ba3b-507a9feacb66" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="84ab18d5-5dec-4c0f-a6c2-c4e0c9c9958c" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Bracers_Githyanki_Kithrak" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9595f6a0-f229-4869-ad3c-1ec7763733da" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7c12ac0c-2ea5-4a7a-baa5-1ccd526cdeda" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="25b0518a-9cb7-4dcf-8f35-ccac7e457ad7" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Circlet_Githyanki_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="654ae709-b8e7-499e-8452-89d87a31dff7" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="26f5de01-6f16-4f6e-8d9c-f14c9cf140f7" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a4ed9605-bd0c-430a-9d66-15f69a53c165" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Circlet_Githyanki_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="654ae709-b8e7-499e-8452-89d87a31dff7" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ce952fc1-392e-480d-b857-b9d01489d843" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f989b0a9-5cab-49a5-98c0-8c6339e76334" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Gloves_Githyanki_Handwraps" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cf76df01-516a-4f6d-af08-a8854ce1b5e5" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3da64d9a-4b00-4bef-8df3-1439b5ab26ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_HalfPlate_Githyanki_Chrai" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f7987fbd-322c-488b-842d-0ed5f83c1c38" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6fbb8db4-0afa-4333-9689-ce59a09257c2" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="6" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="99f76637-ff49-4178-9861-6f7db4b50ed5" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_HalfPlate_Githyanki_Kithrak" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f7987fbd-322c-488b-842d-0ed5f83c1c38" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="94452e5d-8fee-4f5a-aeb4-1edb1dd95520" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="6" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="074f13e3-8c42-4d6f-ae78-3d1cb16021a1" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_HalfPlate_Githyanki_Kithrak_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f7987fbd-322c-488b-842d-0ed5f83c1c38" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="40208ba1-720c-4b9b-9ba4-271b80ddb98a" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="6" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="42436232-a78b-4f38-8921-a43e6e89ab2f" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_HalfPlate_Githyanki_Laezel_Broken" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f7987fbd-322c-488b-842d-0ed5f83c1c38" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7c4c3817-705c-44e5-afdf-64ad7fcbb6e4" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="6" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c3390fc4-c04b-4ce1-9d31-7a1dbde707ce" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_HalfPlate_Githyanki_Raider" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f26d65f2-694b-4c21-bf5d-0bb249f430c3" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="aec60094-33aa-4359-b248-6ebefe8cd9cc" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ee958595-9833-443c-a932-bb84cfe98d98" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Helmet_Githyanki_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="98e55f77-08dd-42b0-b078-0e15f40a1025" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="01748866-37cc-4e5b-a524-9d0fe948ef55" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="805608b4-30b2-4c4f-a825-f3455b5133d6" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Helmet_Githyanki_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="98e55f77-08dd-42b0-b078-0e15f40a1025" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3cde7a4b-5ca3-4cb0-8ba4-06a9cddd714a" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f42e4762-bab6-439a-85d2-ba7e918a4a40" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Orpheus_Armor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f017616e-cb58-44b2-86d9-32b0b0980edb" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8317d61d-cc7f-46e5-94fe-244995048963" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bd7a1315-6420-44f0-8d07-723464cb6267" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Orpheus_Armor_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f017616e-cb58-44b2-86d9-32b0b0980edb" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a1bbeb9e-fe75-49d6-9faf-7d28a222022a" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7306349e-c41c-4f40-a6ee-bb489c2d4c85" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Orpheus_Crown" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="654ae709-b8e7-499e-8452-89d87a31dff7" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9a105085-4102-484d-b687-82efc9ec5b84" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="22e76560-e666-418c-b5e0-2f948f8cb405" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Orpheus_Footwear" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="799503b6-39ee-48ee-ac9d-eb619517f0b6" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="32050f75-659f-4df2-b4ff-40fb842caf75" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Orpheus_Gloves" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f34f0e66-2e04-45fc-915c-d26954a76a7b" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="66d3cb16-c6a5-4472-b656-ea8cf74b5691" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Orpheus_Infernal_Bracers" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="44e78d4d-670d-4360-87d5-86ebcc8a35db" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0faf3f01-e596-4694-9f51-da6e6b8bae9c" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9404fac1-ebff-40ba-94f2-b19ba02d28df" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Orpheus_Infernal_Mask" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="dd2a71d7-826f-40bc-bc7b-6b17695fd066" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="be3f64ad-2820-48de-a641-eaca9ff29c1c" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="30858f70-a827-480c-b4e3-7ab9ed984589" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Vlaakith_Armor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f7987fbd-322c-488b-842d-0ed5f83c1c38" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1bf42e79-c4a8-4ff6-bd8b-fdab214e6127" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="6" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="76996962-ae10-48fd-89a5-72193a53ec99" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Vlaakith_Cape" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="23d9c00e-1d0c-4b26-aec8-d6412a3b9091" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6a12967c-45e4-4693-a4c6-f2456000b72c" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Vlaakith_Crown" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="654ae709-b8e7-499e-8452-89d87a31dff7" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a6d5f97e-0721-4dc5-bb96-46eedca1bc28" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f0a05182-e733-49f2-b4bd-abe813079ba4" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Vlaakith_Footwear" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="daae7804-aaae-40d6-aab3-d016ae0a8806" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="71fb8ba3-1634-42b2-abde-dc5ed6f978d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Vlaakith_Gloves" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9595f6a0-f229-4869-ad3c-1ec7763733da" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4a53c900-04e9-47ab-bf5c-1fdee1ba62ab" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.25" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

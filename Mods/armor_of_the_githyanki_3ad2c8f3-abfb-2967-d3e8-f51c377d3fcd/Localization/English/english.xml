@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hdd7cc73egb048geaddg8748g455d942d124b" version="3">Githyanki Light Armor</content>
+  <content contentuid="hd5d54df7gbf99g0ab5g76d6gf44c00f183df" version="3">This armor is only visible on Githyanki.</content>
+  <content contentuid="h9a51c921g767fg9c5dge9f5gca89d7bc3e78" version="2">Githyanki Light Armored Shirt</content>
+  <content contentuid="hae043fc4g5e42g9f9aga608g71743808eb19" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="h3ae11ab2g2659g4761g38b4gb0d4906ea224" version="2">Githyanki Light Leather Armor</content>
+  <content contentuid="h0929e9f4g6cddgb3f2g57afgb9bd4eae9d7f" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="hec8b2e79gc762gde18g661eg07ed02efdff3" version="3">Githyanki Boots</content>
+  <content contentuid="h03f60c2fg8c47g42dcg902ag3e562c91ae57" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="h7921dc04g8359g480ag4984g4a34cf229a7c" version="2">Broken Githyanki Boots</content>
+  <content contentuid="h36bc3bb1g2cccg60d5g663bg2b6815c71fcf" version="2">This armor is not visible to body type 2. Not visible on strong body types, Dragonborn, or Half-Orcs.</content>
+  <content contentuid="hdfafe1a2g7530gb767gffb2gc15bbb3e47a6" version="1">Githyanki Sandals</content>
+  <content contentuid="h1b66cff6g518fg4babg48f6gdb204ac2d8da" version="1">This armor is only visible on Githyanki.</content>
+  <content contentuid="h79d7b863g69e4g045fg366bg3548b6530dc7" version="4">Githyanki Armored Sandals</content>
+  <content contentuid="h567ec5bbg50cegb480gda4cg641a72a30211" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="h8380da41g024dg652egba93ge4fc40f803f2" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="h3d950a16g312eg42e4g0e43gce3d798fd1f5" version="1">Broken Githyanki Bracers</content>
+  <content contentuid="hb57b84bdg80b0g9b6dga438gbd3e8e7c7266" version="1">This armor is visible on all races/body types.</content>
+  <content contentuid="h9f9a6499ge458g408bg76f6g2e51e185c171" version="1">Kith'rak's Silver Bracers</content>
+  <content contentuid="h4208b76cg7ce4g8aa0g49e6g1e9cb835026d" version="1">This armor is visible on all races/body types.</content>
+  <content contentuid="h4ad6f171g12a8g7402g1721ge2d5e6f20f83" version="1">Githyanki Ruby Circlet</content>
+  <content contentuid="h84028018g60f5gef75g58d2g1bc17353fb16" version="1">This armor is not visible on Dragonborn.</content>
+  <content contentuid="hff80d00eg8d3cgadcfg68dbg1602ad0a099f" version="2">Githyanki Amethyst Circlet</content>
+  <content contentuid="h8ff481e5g66dag60b5gf04fg6071339a2b84" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="h3cb9620fg3e1bg13fdg2826g7e64eb9b9667" version="2">Githyanki Handwraps</content>
+  <content contentuid="he4861caage212g2813g674cgcd6df7ffc786" version="2">This armor is not visible on Dwarves, Gnomes, Halflings, or Half-Orcs.</content>
+  <content contentuid="h3cd6445eg1598g6dfag8ddeg1f2a33153003" version="1">This armor is only visible on Githyanki.</content>
+  <content contentuid="he9c09c29g6142g4af0g4e28g79bcf6fbac9a" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="hdc1e9a12geeffg654dgdf1egf7d98d0db694" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="hbd42938bge47agaeb1gd973g8f81fc486d50" version="2">Kith'rak's Half Plate</content>
+  <content contentuid="h27fce35eg8f06g0efage6d7gcc20262e5644" version="2">This armor is visible on all races/body types.</content>
+  <content contentuid="h9dd9afdcgd887ge002gf6aagf0cd51146833" version="2">This armor is visible on all races/body types.</content>
+  <content contentuid="hc44708c4g933bg129dg3c2dgfe8e47f40197" version="2">Githyanki Raider's Half Plate</content>
+  <content contentuid="h9658659agcd98g834ag480bg06ccea5d8e89" version="2">This armor is visible on all races/body types.</content>
+  <content contentuid="h4b1f17abgfa48gaa17g0443g1ab81c90d7fb" version="2">Kithrak's Silver Helmet</content>
+  <content contentuid="h6e11cad4g4e16g0269g3fbdg5972d0bb6430" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="h6b95d9ddg98d6g2c12g6d3cgcc7e70fd0fb2" version="3">Githyanki Raider's Helmet</content>
+  <content contentuid="h1dc01ef2ge8b2g126cg51b3gf18d5e52c83b" version="3">This armor is only visible on Githyanki.</content>
+  <content contentuid="ha6068ecbgab3eg678fgae8bg187539686901" version="3">Fine Githyanki Monastic Robes</content>
+  <content contentuid="hc269a5cegb54fgaf38g059fg0653d251254c" version="3">This armor is only visible on body type 2 Githyanki.</content>
+  <content contentuid="haea364b3gaf0bg6330gb1f7g6e8a4d3172ec" version="4">This armor is only visible on body type 2 Githyanki.</content>
+  <content contentuid="h031bc2d6gc6dfga88eg6623g90c8fae159fd" version="5">Fine Githyanki Monastic Crown</content>
+  <content contentuid="hc9bd68b2gff60g97dcge53bgd9d6afc9504f" version="5">This armor is only visible on body type 2 Githyanki.</content>
+  <content contentuid="hda48d1c1gd420g8508g9974gfb88bbd3fc55" version="1">Fine Githyanki Monastic Sandals</content>
+  <content contentuid="h4bf19811g8de3g7ecdg9b96g7e15210e1b17" version="1">This armor is only visible on body type 2 Githyanki.</content>
+  <content contentuid="hcef45ed2gb602gf174g2e3fg97255a5142d3" version="3">Fine Githyanki Monastic Gloves</content>
+  <content contentuid="h1f475bf7g8935g09cag00d0g7adbb1b52de0" version="3">This armor is only visible on body type 2 Githyanki.</content>
+  <content contentuid="h123b09f7g7c5agd1c0g2a13gd482e78c8001" version="1">Infernal Bracers</content>
+  <content contentuid="h71fd50abg472age4b4gbaf5g846d586eed77" version="1">This armor is only visible on body type 2 Githyanki.</content>
+  <content contentuid="h50148560g240ag3e39g8d68g43bd2703eb97" version="1">Infernal Mask</content>
+  <content contentuid="h56365c03g4a89g88c0gefa9g194480717d1e" version="1">This armor is only visible on body type 2 Githyanki.</content>
+  <content contentuid="h62400e62g5545ge217gddd9g65322b689a57" version="1">Vlaakith's Armor</content>
+  <content contentuid="hfa51367cg2947g9006g8825g916d1a2da63b" version="1">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="h0517cd22gee06gb297g0f1dg555343408494" version="3">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="hc80047b4ge822ga79cga646g02453739c7e5" version="2">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="ha6c20369g1d94g29e6g88ecg116c10a6e84d" version="2">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="he67fd949g1a5dgb21egc984g74e4b4707c3e" version="2">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="h60072da5g01b9g1bccg431agd64a95e51ddb" version="3">Githyanki Armor Cache</content>
+  <content contentuid="hdf35b41fg11afge5fag59f5g279fa4363509" version="3">A durable bag carrying the markings of the Githyanki empire. It is made of thick canvas and leather, adorned with numerous straps and heavy buckles, and filled to the brim with standard issue equipment.</content>
+  <content contentuid="h20d07e68gdb72g4dd6g0042g1f7ab32f8677" version="1">Kith'rak's Silver Boots</content>
+  <content contentuid="h639e392eg6933g4fc2g4d0ag01ad04661da0" version="1">Fine Githyanki Monastic Vest</content>
+  <content contentuid="h0111a06fg3762g9dadgc2fag97f0c84e35d9" version="1">Vlaakith's Gloves</content>
+  <content contentuid="h43bc33e9g7c0dgf6b8gc37bg520ff4a9924e" version="1">Vlaakith's Boots</content>
+  <content contentuid="hdcbf1367gc61cg5e97gc76dg4d8de0b5f379" version="1">Vlaakith's Crown</content>
+  <content contentuid="he4de7018g3b57g80b2g61eeg2c2d29b19be8" version="1">Vlaakith's Cloak</content>
+  <content contentuid="h8ad06586g4a45g14d1gc2bbg8067ab85e4b9" version="1">Ch'r'ai's Half Plate</content>
+  <content contentuid="h7cbdbda7g65dcgc849g818ag7577e29f040b" version="1">Kith'rak's Silver Plate</content>
+  <content contentuid="h28efaa91g49bag9bcdg6169g52e525668e60" version="1">Lae'zel's Broken Armor</content>
+</contentList>

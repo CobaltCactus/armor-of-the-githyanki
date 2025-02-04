@@ -8,7 +8,7 @@ set -e;
 # MOD_SUBDIR_NAME="CircleOfTheSpores_db7e15fd-b2fc-b159-4bbd-1baab34d8c3a"
 # Look in "C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\Data\Projects"
 # for names of mods you have already started
-MOD_SUBDIR_NAME=""
+MOD_SUBDIR_NAME="armor_of_the_githyanki_3ad2c8f3-abfb-2967-d3e8-f51c377d3fcd"
 
 # This is the MinGW64 path to a Steam install of the toolkit
 BG3_DATA="/d/Program Files (x86)/Steam/steamapps/common/Baldurs Gate 3/Data"

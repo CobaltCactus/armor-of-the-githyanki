@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="60d2a7b2-a4a1-4745-888f-1f73337aae0d" />
+        <field name="Name" type="NameTableFieldDefinition" value="CACTUS_Githyanki_Armor_Cache" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="79b4eb48-712d-47c1-ba0c-9acd5afd1919" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="7" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
