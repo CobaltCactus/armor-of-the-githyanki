@@ -341,5 +341,15 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fe3328d8-5662-4ecd-8f12-471e96d0d88b" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_31" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Accessory_Ghustil" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

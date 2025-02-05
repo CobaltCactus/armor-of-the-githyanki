@@ -249,3 +249,10 @@ data "RootTemplate" "4a53c900-04e9-47ab-bf5c-1fdee1ba62ab"
 data "ValueOverride" "1"
 data "Weight" "0.25"
 
+new entry "CACTUS_Accessory_Ghustil"
+type "Armor"
+using "ARM_Robe_Body_1"
+data "RootTemplate" "82d33bdd-6c17-498b-909e-0f9d9c6ccdb3"
+data "ValueOverride" "1"
+data "Weight" "0.9"
+
