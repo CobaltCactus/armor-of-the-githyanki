@@ -351,5 +351,95 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="863f4c0b-4408-4b1e-8aba-6608d5eb4f19" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_32" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Accessory_Gishra" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="90610458-a3fa-46f9-9233-b19bc93d3ee6" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_33" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Accessory_Gishra_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="15571b31-211f-4240-8fc2-ccbc0bacd103" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_34" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Accessory_Gishra_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="25a6f104-e210-482f-9821-d8abcd9ad784" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_35" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Accessory_Gishra_Underwear" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dbc1e79f-e9f5-465f-a5cb-5406c34ae709" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_36" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Accessory_Inquisitor" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0f4be8d0-7e5d-4b71-baf2-f00a2a26ed2a" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_37" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Accessory_Varsh" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a9422202-04d8-442f-a342-69392a7818f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_38" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Cape_Gishra" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="986aee7b-32da-4f1f-991f-5d358616eeed" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_39" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Circlet_Gishra" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="55944353-ac27-48c6-b692-a8f407348900" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_40" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Circlet_Inquisitor" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

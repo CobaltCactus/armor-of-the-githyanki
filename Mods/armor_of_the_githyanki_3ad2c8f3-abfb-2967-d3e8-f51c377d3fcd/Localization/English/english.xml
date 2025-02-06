@@ -67,5 +67,25 @@
   <content contentuid="h8ad06586g4a45g14d1gc2bbg8067ab85e4b9" version="1">Ch'r'ai's Half Plate</content>
   <content contentuid="h7cbdbda7g65dcgc849g818ag7577e29f040b" version="1">Kith'rak's Silver Plate</content>
   <content contentuid="h28efaa91g49bag9bcdg6169g52e525668e60" version="1">Lae'zel's Broken Armor</content>
-  <content contentuid="h0d0338a0ga3ecg672bg3b4eg5c18c6b43d00" version="2">Ghustil's Vestments</content>
+  <content contentuid="h0d0338a0ga3ecg672bg3b4eg5c18c6b43d00" version="4">Ghustil's Vestments</content>
+  <content contentuid="hde3f975eg6fd7gb92cg1b04g00d1c04565c0" version="5">Gishra's Clothing</content>
+  <content contentuid="h777fee98g1066g3be1g3ea9gff10b5c2981b" version="5">Gishra's Trappings</content>
+  <content contentuid="h1743b7abgdd3egd7b2g08eeg4a91faff2f1d" version="1">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="hd398c76cgfe2fgfb86gd0acg10cd02f33b56" version="3">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="h60b8fe8cg7fd4ge380ga9e9gc2ef0d3caee8" version="4">Gishra's Habit</content>
+  <content contentuid="he26d18e0gd638g48d3geb6dge792010bdd24" version="4">This armor is only visible on Githyanki.</content>
+  <content contentuid="h34c20eacgbbb5ga53fgf6d6g956866c51aec" version="1">Gishra's Harness</content>
+  <content contentuid="h162fde23g1f71g25cfgedc7g2ca076731e9d" version="1">This armor is only visible on body type 1.</content>
+  <content contentuid="h1173c0c8gcd79ge49dg1040g4b2bc8b2ad53" version="5">Inquisitor's Uniform</content>
+  <content contentuid="h3212e22bg6225g64f8g0aa5g4485a298b2b6" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="h1cdf132dg0da8gd31cg0b46g8fb177498a0c" version="4">Varsh's Robes</content>
+  <content contentuid="hec0e2d7cg8e2dg14d3g8359g588ea5882a90" version="3">This armor is only not visible to body type 2. Not visible on strong body types, Dragonborn, Half-Orcs, or short races.</content>
+  <content contentuid="h36678066g4cddga91dgab72g5c609afcf819" version="1">This armor is visible on all races/body types.</content>
+  <content contentuid="h453933ebgad28g977fgacf6g02d6c4dfbfed" version="1">Ga'varsh's Cloak</content>
+  <content contentuid="h93ac88efga9c8g9271g5f6ega73a49b74567" version="3">Gishra's Cloak</content>
+  <content contentuid="ha6aa3dc5gc911g7aa8gbabcg51a74efbb74c" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="hd585c3fdg2d30g9f1eg5afcg87935d4fb790" version="2">Gishra's Crown</content>
+  <content contentuid="ha21ec919gda1dgc110gd000g735f98126ea7" version="1">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="hf3bccd63g7c8fg8d68gd108g388a735f74db" version="2">Inquisitor's Diadem</content>
+  <content contentuid="he0d9be1cgf704gfec4g9510g33aba698d643" version="2">This armor is only visible on Githyanki.</content>
 </contentList>
