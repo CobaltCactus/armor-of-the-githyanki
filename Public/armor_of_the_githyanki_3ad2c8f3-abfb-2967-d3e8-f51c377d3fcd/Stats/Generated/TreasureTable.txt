@@ -91,3 +91,17 @@ new subtable "1,1"
 object category "I_CACTUS_Circlet_Gishra",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CACTUS_Circlet_Inquisitor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CACTUS_Footwear_Varsh",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CACTUS_Gloves_Gishra",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CACTUS_Gloves_Inquisitor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CACTUS_Gloves_Varsh",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CACTUS_Monocle_Ghustil",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CACTUS_Monocle_Varsh",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CACTUS_Gloves_Githyanki_Handwraps_B",1,0,0,0,0,0,0,0

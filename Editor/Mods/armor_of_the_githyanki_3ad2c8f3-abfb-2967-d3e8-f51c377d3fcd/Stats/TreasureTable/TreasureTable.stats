@@ -441,5 +441,75 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="999c103d-4a2d-4069-9037-bc9c7da1a1d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_41" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Footwear_Varsh" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dedfc12a-65e1-4b63-b08b-baefb67c7b92" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_42" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Gloves_Gishra" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d7dddf47-cc02-4db8-869e-c108ceb1cdf4" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_43" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Gloves_Inquisitor" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dc874cfe-2f90-4731-93b1-2a1c2dd505a0" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_44" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Gloves_Varsh" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="83f9508b-149c-4d35-b7c4-059638c34a81" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_45" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Monocle_Ghustil" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6f12a9d7-f57e-44a5-b0b4-88db0079e649" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_46" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Monocle_Varsh" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6751f63c-ec6d-4579-8df9-14478dbdeb33" />
+        <field name="Name" type="NameTableFieldDefinition" value="d137f002-47c8-428b-8a86-d1ae2967d42c_substat_47" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CACTUS_Gloves_Githyanki_Handwraps_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

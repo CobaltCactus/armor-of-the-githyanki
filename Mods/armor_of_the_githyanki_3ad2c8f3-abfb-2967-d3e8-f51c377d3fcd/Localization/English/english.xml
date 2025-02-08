@@ -88,4 +88,17 @@
   <content contentuid="ha21ec919gda1dgc110gd000g735f98126ea7" version="1">This armor is only visible on body type 1 Githyanki.</content>
   <content contentuid="hf3bccd63g7c8fg8d68gd108g388a735f74db" version="2">Inquisitor's Diadem</content>
   <content contentuid="he0d9be1cgf704gfec4g9510g33aba698d643" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="hb0c928ceg4b78g1dd2g3667g281975530225" version="2">Varsh's Shoes</content>
+  <content contentuid="h0c1b5a4eg0770gbb61g2a39g7c9452026a23" version="2">This armor is visible on all races/body types.</content>
+  <content contentuid="h45dd1717g63b7g8420gf691g9965e26e86ac" version="1">Gishra's Gloves</content>
+  <content contentuid="h2aea1c39g6d8dg15cegc0c7g7ffed13043c5" version="1">This armor is visible on all races/body types.</content>
+  <content contentuid="h8d800fc1g6392g91b3g5855g840c2cf53265" version="3">This armor is not visible on strong body types, short races, Dragonborn, or Half-Orcs.</content>
+  <content contentuid="h00155694g3b92ga7f2g81d7g7bae5854fbe2" version="3">Varsh's Mitts</content>
+  <content contentuid="hfab76cf6g7c8ag7b9bged44gffde29476635" version="3">This armor is visible on all races/body types.</content>
+  <content contentuid="h39c355bag052dg5769g6575g91361033e971" version="2">Ghustil's Monocle</content>
+  <content contentuid="h5df24dc7g3efegcdceg41d8gc5e190d09eed" version="2">This armor is only visible on body type 1 Githyanki.</content>
+  <content contentuid="h4d218128g13eeg0984gf85dg1460ca6af264" version="3">Varsh's Monocle</content>
+  <content contentuid="h869427a7g5aa4gbfd7ge646gf29f7b33b211" version="3">This armor not visible on body type 1, strong body types, short races, Dragonborn, or Half-Orcs.</content>
+  <content contentuid="h4ac60f15g51acgf69bgb825gc0b81b1a8ce5" version="1">Githyanki Mitts</content>
+  <content contentuid="hc5c14177gf9a7g7015gfe85g47cf5bd64328" version="1">This armor is only visible on Githyanki.</content>
 </contentList>
