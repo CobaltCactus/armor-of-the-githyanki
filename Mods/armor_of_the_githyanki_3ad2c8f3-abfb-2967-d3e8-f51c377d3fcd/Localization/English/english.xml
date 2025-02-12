@@ -21,8 +21,8 @@
   <content contentuid="h4208b76cg7ce4g8aa0g49e6g1e9cb835026d" version="1">This armor is visible on all races/body types.</content>
   <content contentuid="h4ad6f171g12a8g7402g1721ge2d5e6f20f83" version="1">Githyanki Ruby Circlet</content>
   <content contentuid="h84028018g60f5gef75g58d2g1bc17353fb16" version="1">This armor is not visible on Dragonborn.</content>
-  <content contentuid="hff80d00eg8d3cgadcfg68dbg1602ad0a099f" version="2">Githyanki Amethyst Circlet</content>
-  <content contentuid="h8ff481e5g66dag60b5gf04fg6071339a2b84" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="hff80d00eg8d3cgadcfg68dbg1602ad0a099f" version="3">Githyanki Amethyst Circlet</content>
+  <content contentuid="h8ff481e5g66dag60b5gf04fg6071339a2b84" version="3">This armor is not visible on Tieflings or Dragonborn.</content>
   <content contentuid="h3cb9620fg3e1bg13fdg2826g7e64eb9b9667" version="2">Githyanki Handwraps</content>
   <content contentuid="he4861caage212g2813g674cgcd6df7ffc786" version="2">This armor is not visible on Dwarves, Gnomes, Halflings, or Half-Orcs.</content>
   <content contentuid="h3cd6445eg1598g6dfag8ddeg1f2a33153003" version="1">This armor is only visible on Githyanki.</content>
@@ -33,8 +33,8 @@
   <content contentuid="h9dd9afdcgd887ge002gf6aagf0cd51146833" version="2">This armor is visible on all races/body types.</content>
   <content contentuid="hc44708c4g933bg129dg3c2dgfe8e47f40197" version="2">Githyanki Raider's Half Plate</content>
   <content contentuid="h9658659agcd98g834ag480bg06ccea5d8e89" version="2">This armor is visible on all races/body types.</content>
-  <content contentuid="h4b1f17abgfa48gaa17g0443g1ab81c90d7fb" version="2">Kithrak's Silver Helmet</content>
-  <content contentuid="h6e11cad4g4e16g0269g3fbdg5972d0bb6430" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="h4b1f17abgfa48gaa17g0443g1ab81c90d7fb" version="3">Kithrak's Silver Helmet</content>
+  <content contentuid="h6e11cad4g4e16g0269g3fbdg5972d0bb6430" version="3">This armor is not visible on Dragonborn.</content>
   <content contentuid="h6b95d9ddg98d6g2c12g6d3cgcc7e70fd0fb2" version="3">Githyanki Raider's Helmet</content>
   <content contentuid="h1dc01ef2ge8b2g126cg51b3gf18d5e52c83b" version="3">This armor is only visible on Githyanki.</content>
   <content contentuid="ha6068ecbgab3eg678fgae8bg187539686901" version="3">Fine Githyanki Monastic Robes</content>
