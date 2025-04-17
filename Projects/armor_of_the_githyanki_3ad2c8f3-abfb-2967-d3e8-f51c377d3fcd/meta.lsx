@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="MetaData">
         <node id="root">
             <attribute id="GameProject" type="LSString" value=""/>
             <attribute id="Module" type="LSString" value="3ad2c8f3-abfb-2967-d3e8-f51c377d3fcd"/>
             <attribute id="Name" type="LSString" value="armor_of_the_githyanki"/>
             <attribute id="UUID" type="LSString" value="87e9106e-ee26-7e7d-45a8-0477f2b3ac9a"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
             <children>
                 <node id="Categories"/>
             </children>
