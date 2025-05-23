@@ -2,8 +2,8 @@
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <content contentuid="hdd7cc73egb048geaddg8748g455d942d124b" version="4">Githyanki Light Armor</content>
   <content contentuid="hd5d54df7gbf99g0ab5g76d6gf44c00f183df" version="4">This armor is visible on all races/body types.</content>
-  <content contentuid="h9a51c921g767fg9c5dge9f5gca89d7bc3e78" version="2">Githyanki Light Armored Shirt</content>
-  <content contentuid="hae043fc4g5e42g9f9aga608g71743808eb19" version="2">This armor is only visible on Githyanki.</content>
+  <content contentuid="h9a51c921g767fg9c5dge9f5gca89d7bc3e78" version="6">Githyanki Light Armored Shirt</content>
+  <content contentuid="hae043fc4g5e42g9f9aga608g71743808eb19" version="6">This armor is only visible on Githyanki.</content>
   <content contentuid="h3ae11ab2g2659g4761g38b4gb0d4906ea224" version="2">Githyanki Light Leather Armor</content>
   <content contentuid="h0929e9f4g6cddgb3f2g57afgb9bd4eae9d7f" version="2">This armor is only visible on Githyanki.</content>
   <content contentuid="hec8b2e79gc762gde18g661eg07ed02efdff3" version="3">Githyanki Boots</content>
